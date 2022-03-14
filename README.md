@@ -2,7 +2,7 @@
   <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
 </a>
 
-# Gatsby Starter WordPress Homepage
+# Gatsby Starter WordPress Homepage!
 
 Create a homepage using Gatsby and WordPress. This starter demonstrates how to use WordPress to build a homepage and can be customized to match your own visual branding.
 
